@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [X] App Icon
 - [X] Splits for up to 5
-- [X] Font, font size, and background color
+- [X] background color
 
 ## Video Walkthrough 
 
