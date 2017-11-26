@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was difficult when I was making a settings page and ran into errors which I did not know how to fix such as no entry points, etc. In addition, it was difficult getting used to Swift and iOS, but I slowly started to get used to it.
+It was difficult when I was making a settings page and ran into errors which I did not know how to fix such as no entry points, etc. In addition, it was difficult getting used to Swift and iOS, but I slowly started to get used to it. I also ran into issues with getting everything to GitHub (there are multiple copies for the .swift files...the ones not inside the folder are the actual files and the ones inside are only the basic files...for some reason it was not working or updating)
 
 ## License
 
